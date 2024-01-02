@@ -323,6 +323,17 @@
                 android:action="android.intent.action.VIEW"
                 android:data="https://t.me/FreakyPrateek" />
         </Preference>
+        
+        <Preference
+            android:key="maintainer_wayne"
+            android:title="@string/device_wayne"
+            android:summary="@string/device_wayne_description"
+            settings:layout="@layout/superior_dashboard_preference_bottom"
+            android:icon="@drawable/ic_devs_phone">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://t.me/kavencat" />
+        </Preference>
     </PreferenceCategory>
 
 </PreferenceScreen>
