@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2022-2023 The SuperiorOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+     <!-- App Title -->
+     <string name="superior_lab_title">Superior实验室</string>
+
+     <!-- Dev Info -->
+     <string name="devs_header">核心团队</string>
+
+     <!-- Mentions -->
+     <string name="mentions_header">荣誉成员</string>
+
+     <!-- Team Title -->
+     <string name="superior_lab_team">SuperiorOS团队</string>
+
+     <!-- Categories -->
+     <string name="team_title">关于团队</string>
+     <string name="button_title">按键</string>
+     <string name="gestures_title">手势</string>
+     <string name="lockscreen_title">锁屏</string>
+     <string name="misc_title">杂项</string>
+     <string name="navbar_title">导航栏</string>
+     <string name="powermenu_title">电源菜单</string>
+     <string name="quicksettings_title">快捷设置</string>
+     <string name="themes_title">主题</string>
+     <string name="statusbar_title">状态栏</string>
+     <string name="notifications_title">通知</string>
+
+     <!-- General strings -->
+     <string name="ok">确认</string>
+     <string name="reset">重置</string>
+     <string name="cancel">取消</string>
+     <string name="save">保存</string>
+
+     <!-- Units -->
+     <string name="unit_seconds">秒</string>
+     <string name="unit_milliseconds">分</string>
+
+     <!-- Sub category -->
+     <string name="general_category">常规</string>
+     <string name="statusbar_icons">图标</string>
+     <string name="dt_category_header">双击手势</string>
+
+     <!-- AOSP Gestures -->
+     <string name="aosp_gesture_preference">系统设置</string>
+     <string name="aosp_gesture_summary">AOSP用手势</string>
+
+     <!-- Navigation -->
+     <string name="system_navigation_summary">配置导航菜单</string>
+
+     <!-- Statusbar Tuner -->
+     <string name="statusbar_items_title">状态栏项目</string>
+     <string name="statusbar_items_summary">调整状态栏项目</string>
+
+     <!-- Font style / Icon pack -->
+     <string name="theme_customization_font_title">字体样式</string>
+     <string name="theme_customization_font_summary">设置系统字体</string>
+     <string name="theme_customization_icon_pack_title">图标样式</string>
+     <string name="theme_customization_icon_pack_summary">设置自定义图标包样式</string>
+     <string name="theme_customization_icon_shape_title">图标形状</string>
+     <string name="theme_customization_icon_shape_summary">设置系统图标形状样式</string>
+     <string name="theme_customization_signal_icon_title">信号图标样式</string>
+     <string name="theme_customization_signal_icon_summary">设置自定义信号图标样式</string>
+     <string name="theme_customization_wifi_icon_title">WiFi图标样式</string>
+     <string name="theme_customization_wifi_icon_summary">设置自定义 wifi 图标样式</string>
+     <string name="theme_customization_navbar_title">导航栏样式</string>
+     <string name="theme_customization_navbar_summary">设置自定义导航栏样式</string>
+     <string name="theme_customization_data_title">数据图标样式</string>
+     <string name="theme_customization_data_summary">设置自定义数据图标样式</string>
+
+     <!-- Quick QS pulldown -->
+     <string name="qs_quick_pulldown">状态栏快速下拉</string>
+     <string name="quick_pulldown_none">禁用</string>
+     <string name="quick_pulldown_right">右侧下拉状态栏</string>
+     <string name="quick_pulldown_left">左侧下拉状态栏</string>
+
+     <!-- Power Menu -->
+     <string name="power_menu_title">电源菜单</string>
+     <string name="power_menu_title_summary">查看或更改电源菜单项</string>
+     <string name="powermenu_screenshot">截屏</string>
+     <string name="powermenu_power">电源</string>
+     <string name="powermenu_advanced">高级重启</string>
+     <string name="powermenu_restart">重启</string>
+     <string name="powermenu_airplane">飞行</string>
+     <string name="powermenu_settings">设置</string>
+     <string name="powermenu_lockdown">锁定</string>
+     <string name="powermenu_soundpanel">音量面板</string>
+     <string name="powermenu_users">多用户</string>
+     <string name="powermenu_logout">登出</string>
+     <string name="powermenu_emergency">紧急</string>
+
+     <!-- Power menu on secure lockscreen -->
+     <string name="lockscreen_enable_power_menu_title">允许锁屏界面上的电源菜单</string>
+     <string name="lockscreen_enable_power_menu_summary">允许在安全锁屏上访问电源菜单</string>
+
+     <!-- Status bar - Battery -->
+     <string name="status_bar_battery_category_title">状态栏电池样式设置</string>
+     <string name="status_bar_battery_style_title">电池样式</string>
+     <string name="status_bar_battery_style_summary">状态栏和快捷状态栏电池样式</string>
+     <string name="status_bar_battery_style_icon_portrait">电池画像</string>
+     <string name="status_bar_battery_style_icon_rlandscape">图标横向（右）</string>
+     <string name="status_bar_battery_style_icon_landscape">图标横向（左）</string>
+     <string name="status_bar_battery_style_circle">圆圈</string>
+     <string name="status_bar_battery_style_dotted_circle">虚线圆</string>
+     <string name="status_bar_battery_style_filled_circle">实心圆</string>
+     <string name="status_bar_battery_style_big_circle">大圆圈</string>
+     <string name="status_bar_battery_style_big_dotted_circle">大虚线圆</string>
+     <string name="status_bar_battery_style_text">文本</string>
+     <string name="status_bar_battery_style_hidden">隐藏</string>
+     <string name="status_bar_battery_percent_title">电量百分比</string>
+     <string name="status_bar_battery_percent_hidden">隐藏</string>
+     <string name="status_bar_battery_percent_text_inside">图标内部</string>
+     <string name="status_bar_battery_percent_text_next_right">图标旁边（右）</string>
+     <string name="status_bar_battery_percent_text_next_left">图标旁边（左）</string>
+     <string name="status_bar_battery_text_charging_title">充电时电池百分比</string>
+     <string name="status_bar_battery_text_charging_summary">充电时始终显示电池百分比</string>
+
+     <!-- QS battery -->
+     <string name="qs_battery_category_title">快速设置电池样式设置</string>
+     <string name="qs_use_status_bar_battery_style">遵循状态栏样式</string>
+
+     <!-- Status bar - Clock -->
+     <string name="status_bar_clock_title">时钟和日期</string>
+     <string name="status_bar_clock_summary">自定义时钟和日期</string>
+     <string name="status_bar_clock_seconds_title">时钟秒数</string>
+     <string name="status_bar_clock_seconds_summary">在状态栏中的时钟旁边显示秒数</string>
+     <string name="status_bar_clock_position_title">时钟位置</string>
+     <string name="status_bar_clock_position_right">右</string>
+     <string name="status_bar_clock_position_left">左</string>
+     <string name="status_bar_clock_position_center">居中</string>
+     <string name="status_bar_clock_position_hidden">隐藏</string>
+     <string name="status_bar_clock_auto_hide_title">自动隐藏</string>
+     <string name="status_bar_clock_auto_hide_launcher_summary">如果启动器可见，则隐藏时钟</string>
+     <string name="status_bar_clock_auto_hide_summary">定期隐藏时钟</string>
+     <string name="status_bar_clock_auto_hide_hdur_title">隐藏持续时间</string>
+     <string name="status_bar_clock_auto_hide_hdur_summary">隐藏时钟的秒数</string>
+     <string name="status_bar_clock_auto_hide_sdur_title">显示持续时间</string>
+     <string name="status_bar_clock_auto_hide_sdur_summary">隐藏时钟前等待的秒数</string>
+     <string name="status_bar_am_pm_title">上午/下午样式</string>
+     <string name="status_bar_am_pm_info">启用 24 小时制</string>
+     <string name="status_bar_am_pm_normal">正常</string>
+     <string name="status_bar_am_pm_small">较小</string>
+     <string name="status_bar_am_pm_hidden">隐藏</string>
+     <string name="status_bar_date_title">日期</string>
+     <string name="status_bar_date_none">隐藏</string>
+     <string name="status_bar_date_small">较小</string>
+     <string name="status_bar_date_normal">正常</string>
+     <string name="status_bar_date_format_title">日期格式</string>
+     <string name="status_bar_date_style">日期样式</string>
+     <string name="status_bar_date_style_normal">正常</string>
+     <string name="status_bar_date_style_lowercase">小写</string>
+     <string name="status_bar_date_style_uppercase">大写</string>
+     <string name="status_bar_date_format_custom">自定义 java 格式</string>
+     <string name="status_bar_date_string_edittext_title">必须采用 DateFormat，例如。 MM/dd/yy</string>
+     <string name="status_bar_date_string_edittext_summary">输入字符串</string>
+     <string name="clock_date_position">日期位置</string>
+     <string name="clock_date_right">时间右侧</string>
+     <string name="clock_date_left">时间左侧</string>
+
+     <!-- Network traffic -->
+     <string name="network_traffic_intro_text">
+          在状态栏中显示当前网络流量速度。监视器动态显示速度，使其在每秒的上传和下载速度。
+     </string>
+     <string name="network_traffic_category_title">网络监视器</string>
+     <string name="network_traffic_title">网络流量指示器</string>
+     <string name="network_traffic_summary">在状态栏中启用或禁用网络速度指示器</string>
+     <string name="network_traffic_main_switch_title">使用网络流量指示器</string>
+     <string name="network_options_title">选项</string>
+     <string name="network_traffic_autohide_title">在不活动时隐藏网络流量指示器</string>
+     <string name="network_traffic_autohide_summary">当网络流量指示器低于 1KB/s 时隐藏</string>
+
+     <!-- Double tap to sleep on status bar or lockscreen -->
+     <string name="status_bar_double_tap_to_sleep_title">点击进入睡眠状态</string>
+     <string name="status_bar_double_tap_to_sleep_summary">双击状态栏或锁屏以关闭显示屏</string>
+
+     <!-- Quick Settings brightness slider -->
+     <string name="qs_show_brightness_slider_title">亮度滑块</string>
+     <string name="qs_show_brightness_slider_never">从不显示</string>
+     <string name="qs_show_brightness_slider_expanded">展开时显示</string>
+     <string name="qs_show_brightness_slider_always">始终显示</string>
+     <string name="qs_show_brightness_slider_not_expanded">未展开时显示</string>
+     <string name="qs_brightness_slider_position_title">位置</string>
+     <string name="qs_brightness_slider_position_top">顶部</string>
+     <string name="qs_brightness_slider_position_bottom">底部</string>
+
+     <!-- Quick Settings brightness icon -->
+     <string name="qs_show_auto_brightness_title">自动亮度图标</string>
+     <string name="qs_show_auto_brightness_summary">显示滑块附近自适应亮度的切换开关</string>
+
+     <!-- QS footer data usage -->
+     <string name="qs_show_data_usage_title">显示数使用情况</string>
+     <string name="qs_show_data_usage_summary">在快速设置页脚中显示每日蜂窝网络/Wi-Fi 数据使用情况</string>
+
+     <!-- 4G icon -->
+     <string name="show_fourg_icon_title">4G图标</string>
+     <string name="show_fourg_icon_summary">在信号图标中显示 4G 图标，而不是 LTE</string>
+
+     <!-- Data disabled icon -->
+     <string name="data_disabled_icon_title">显示数据禁用图标</string>
+     <string name="data_disabled_icon_summary">禁用数据时在信号栏旁边显示数据符号</string>
+
+     <!-- Roaming indicator icon -->
+     <string name="roaming_indicator_icon_title">漫游指示灯</string>
+     <string name="roaming_indicator_icon_summary">在漫游模式下，在信号图标中显示漫游指示灯</string>
+
+     <!-- Ignore window secure -->
+     <string name="laboratory_ignore_window_secure_title">忽略窗口安全标志</string>
+     <string name="laboratory_ignore_window_secure_summary">这将删除所有应用程序的屏幕截图和屏幕录制限制。通常，特殊应用程序会替换为记录中的黑色区域。这在某些情况下可能很方便，但可能会导致隐私泄露。更改此切换开关后，可能需要重新启动应用程序才能使更改生效。</string>
+     
+     <!-- Unlimited google photos storage -->
+    <string name="use_photos_spoof_title">无限照片存储</string>
+    <string name="use_photos_spoof_summary">将您的设备伪装成 Pixel XL for Google 相册应用，仅提供无限的备份存储空间</string>
+
+</resources>
