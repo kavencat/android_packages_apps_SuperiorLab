@@ -12,7 +12,7 @@
      <string name="devs_header">核心团队</string>
 
      <!-- Mentions -->
-     <string name="mentions_header">荣誉成员</string>
+     <string name="mentions_header">主要成员</string>
 
      <!-- Team Title -->
      <string name="superior_lab_team">SuperiorOS团队</string>
@@ -69,8 +69,8 @@
      <string name="theme_customization_wifi_icon_summary">设置自定义 wifi 图标样式</string>
      <string name="theme_customization_navbar_title">导航栏样式</string>
      <string name="theme_customization_navbar_summary">设置自定义导航栏样式</string>
-     <string name="theme_customization_data_title">数据图标样式</string>
-     <string name="theme_customization_data_summary">设置自定义数据图标样式</string>
+     <string name="theme_customization_data_title">移动数据图标样式</string>
+     <string name="theme_customization_data_summary">设置自定义移动数据图标样式</string>
 
      <!-- Quick QS pulldown -->
      <string name="qs_quick_pulldown">状态栏快速下拉</string>
@@ -192,16 +192,16 @@
      <string name="qs_show_auto_brightness_summary">显示滑块附近自适应亮度的切换开关</string>
 
      <!-- QS footer data usage -->
-     <string name="qs_show_data_usage_title">显示数使用情况</string>
-     <string name="qs_show_data_usage_summary">在快速设置页脚中显示每日蜂窝网络/Wi-Fi 数据使用情况</string>
+     <string name="qs_show_data_usage_title">显示流量用情况</string>
+     <string name="qs_show_data_usage_summary">在快速设置页脚中显示每日蜂窝网络/Wi-Fi 流量使用情况</string>
 
      <!-- 4G icon -->
      <string name="show_fourg_icon_title">4G图标</string>
      <string name="show_fourg_icon_summary">在信号图标中显示 4G 图标，而不是 LTE</string>
 
      <!-- Data disabled icon -->
-     <string name="data_disabled_icon_title">显示数据禁用图标</string>
-     <string name="data_disabled_icon_summary">禁用数据时在信号栏旁边显示数据符号</string>
+     <string name="data_disabled_icon_title">显示移动数据禁用图标</string>
+     <string name="data_disabled_icon_summary">禁用移动数据时在信号栏旁边显示移动数据符号</string>
 
      <!-- Roaming indicator icon -->
      <string name="roaming_indicator_icon_title">漫游指示灯</string>
