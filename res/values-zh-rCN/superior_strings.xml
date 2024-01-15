@@ -214,5 +214,9 @@
      <!-- Unlimited google photos storage -->
     <string name="use_photos_spoof_title">无限照片存储</string>
     <string name="use_photos_spoof_summary">将您的设备伪装成 Pixel XL for Google 相册应用，仅提供无限的备份存储空间</string>
+    
+    <!-- Ambient Ticker -->
+    <string name="pulse_on_new_tracks_title">音乐频谱</string>
+    <string name="pulse_on_new_tracks_summary">在曲目更改或正在播放歌曲检测期间在环境显示屏上显示音乐频谱</string>
 
 </resources>
