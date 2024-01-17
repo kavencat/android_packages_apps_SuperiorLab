@@ -216,36 +216,36 @@
     <string name="use_photos_spoof_summary">将您的设备伪装成 Pixel XL for Google 相册应用，仅提供无限的备份存储空间</string>
     
     <!-- Ambient Ticker -->
-    <string name=“pulse_on_new_tracks_title”>音乐提示</string>
-    <string name=“pulse_on_new_tracks_summary”>在曲目更改或当前播放歌曲检测期间在环境显示器上显示音乐提示</string>
+    <string name="pulse_on_new_tracks_title">音乐提示</string>
+    <string name="pulse_on_new_tracks_summary">在曲目更改或当前播放歌曲检测期间在环境显示器上显示音乐提示</string>
     
     <!-- Volume button music control -->
-     <string name=“volume_button_music_control_title”>播放控制</string>
-     <string name=“volume_button_music_control_summary”>当屏幕关闭时，长按音量键将跳过音乐曲目</string>
+     <string name="volume_button_music_control_title">播放控制</string>
+     <string name="volume_button_music_control_summary">当屏幕关闭时，长按音量键将跳过音乐曲目</string>
 
      <!-- Annoying Notifications -->
-     <string name=“notifications_category_title”>恼人的通知保护</string>
-     <string name=“notification_sound_vib_screen_on_title”>通知
-     <string name=“notification_sound_vib_screen_on_summary”>当屏幕打开时播放通知的声音和振动</string>
+     <string name="notifications_category_title">恼人的通知保护</string>
+     <string name="notification_sound_vib_screen_on_title">通知
+     <string name="notification_sound_vib_screen_on_summary">当屏幕打开时播放通知的声音和振动</string>
 
      <!-- Weather -->
-     <string name=“weather_category_title”>天气</string>
-     <string name=“weather_settings_title”>天气设置</string>
-     <string name=“weather_settings_summary”>设置图标包和天气服务</string>
+     <string name="weather_category_title">天气</string>
+     <string name="weather_settings_title">天气设置</string>
+     <string name="weather_settings_summary">设置图标包和天气服务</string>
 维护人员
-     <string name=“lockscreen_weather_summary”>显示当前天气状况和温度</string>
-     <string name=“lockscreen_weather_enabled_info”>需要启用天气服务</string>
-     <string name=“lockscreen_weather_location_title”>当前位置</string>
-     <string name=“lockscreen_weather_location_summary”>显示当前天气位置</string>
-     <string name=“lockscreen_weather_text_title”>当前条件</string>
-     <string name=“lockscreen_weather_text_summary”>显示当前天气状况摘要</string>
+     <string name="lockscreen_weather_summary">显示当前天气状况和温度</string>
+     <string name="lockscreen_weather_enabled_info">需要启用天气服务</string>
+     <string name="lockscreen_weather_location_title">当前位置</string>
+     <string name="lockscreen_weather_location_summary">显示当前天气位置</string>
+     <string name="lockscreen_weather_text_title">当前条件</string>
+     <string name="lockscreen_weather_text_summary">显示当前天气状况摘要</string>
 
      <!-- Media art -->
-     <string name=“lockscreen_media_art_options_title”>媒体封面艺术</string>
-     <string name=“media_art_title”>媒体封面艺术</string>
-     <string name=“media_art_summary”>可用时显示媒体封面艺术</string>
+     <string name="lockscreen_media_art_options_title">媒体封面艺术</string>
+     <string name="media_art_title">媒体封面艺术</string>
+     <string name="media_art_summary">可用时显示媒体封面艺术</string>
 
      <!-- Lock screen cover art -->
-     <string name=“lockscreen_media_blur_title”>媒体艺术模糊级别</string>
+     <string name="lockscreen_media_blur_title">媒体艺术模糊级别</string>
 
 </resources>
