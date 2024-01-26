@@ -257,5 +257,21 @@
      <!-- Alert Slider Notifications (OnePlus devices) -->
      <string name="alert_slider_notifications_title">警报滑块通知</string>
      <string name="alert_slider_notifications_summary">更改警报滑块位置时显示通知</string>
+     
+     <!-- QS tiles layout  -->
+     <string name="qs_layout_category_title">平铺布局</string>
+     <string name="qs_tile_label_hide_title">隐藏标签</string>
+     <string name="qs_tile_label_size_title">标签文本大小</string>
+     <string name="qs_tile_label_hide_summary">仅在互动程序中显示图标</string>
+     <string name="qs_tile_layout_title">垂直布局</string>
+     <string name="qs_tile_layout_summary">在图标下方显示标签，而不是在图标旁边</string>
+     <string name="qs_columns_portrait_title">列（纵向）</string>
+     <string name="qs_columns_landscape_title">列（横向）</string>
+     <string name="qqs_rows_portrait_title">快速设置行（纵向）</string>
+     <string name="qqs_rows_landscape_title">快速设置行（横向）</string>
+
+     <!-- Quick settings haptic feedback -->
+     <string name="quick_settings_vibrate_title">触摸时振动</string>
+     <string name="quick_settings_vibrate_summary">触摸瓷砖时振动</string>
 
 </resources>
