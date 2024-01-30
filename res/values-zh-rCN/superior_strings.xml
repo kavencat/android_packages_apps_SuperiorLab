@@ -47,7 +47,7 @@
 
      <!-- AOSP Gestures -->
      <string name="aosp_gesture_preference">系统设置</string>
-     <string name="aosp_gesture_summary">AOSP用手势</string>
+     <string name="aosp_gesture_summary">安卓系统手势</string>
 
      <!-- Navigation -->
      <string name="system_navigation_summary">配置导航菜单</string>
@@ -83,7 +83,7 @@
      <string name="power_menu_title_summary">查看或更改电源菜单项</string>
      <string name="powermenu_screenshot">截屏</string>
      <string name="powermenu_power">电源</string>
-     <string name="powermenu_advanced">高级重启</string>
+     <string name="powermenu_advanced">高级</string>
      <string name="powermenu_restart">重启</string>
      <string name="powermenu_airplane">飞行</string>
      <string name="powermenu_settings">设置</string>
@@ -232,6 +232,7 @@
      <string name="weather_category_title">天气</string>
      <string name="weather_settings_title">天气设置</string>
      <string name="weather_settings_summary">设置图标包和天气服务</string>
+	 <string name="lockscreen_weather_title">天气状况</string>
      <string name="lockscreen_weather_summary">显示当前天气状况和温度</string>
      <string name="lockscreen_weather_enabled_info">需要启用天气服务</string>
      <string name="lockscreen_weather_location_title">当前位置</string>
