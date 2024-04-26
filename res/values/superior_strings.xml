@@ -102,4 +102,8 @@
      <string name="use_games_spoof_title">Unlock higher FPS in games</string>
      <string name="use_games_spoof_summary">Spoof your device as different model for specific games
           to unlock higher FPS</string>
+
+     <!-- Statusbar Items -->
+     <string name="sb_icons">Statusbar Icons</string>
+     <string name="statusbar_items_category">Statusbar items</string>
 </resources>
